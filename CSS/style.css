@@ -1,0 +1,100 @@
+
+
+.card_parant{
+    
+    width: 80%;
+    margin: auto;
+   
+}
+
+
+
+.card{
+    background-color: lightblue;
+    width: 350px;
+    font-family: Arial;
+    box-sizing: border-box;
+    padding: 20px 25px;
+    display: inline-block;
+    border: 3px solid blue;
+}
+
+
+.card a{
+    text-decoration: none;
+    color: white;
+    padding: 15px 25px;
+    background-color: black;
+    display: inline-block;
+
+}
+
+
+.firstOne{
+    background-image: url(../images/mounted.avif);
+    color: white;
+    background-size: cover;
+}
+.secondOne{
+    background-image: url(../images/rever.avif);
+    color: white;
+    background-size: cover;
+    background-position: bottom bottom;
+    
+}
+.thirdOne{
+    background: #BE93C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: white;
+}
+.fourOne{
+    background-image: url(../images/natural.avif);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    
+}
+.fiveOne{
+    background-image: url(../images/road.avif);
+    color: black;
+    background-position: top;
+    background-size: cover;
+}
+.sixOne{
+    background: #f79d00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #64f38c, #f79d00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #64f38c, #f79d00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+}
+.sevenOne{
+    background-image:url(../images/flowber.avif);
+    background-size: cover;
+    color: #42275a;
+    background-position: left;
+}
+.eightOne{
+    background: #42275a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #734b6d, #42275a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #734b6d, #42275a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+    color: aqua;
+
+}
+.nineOne{
+    background: #ff4b1f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #1fddff, #ff4b1f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #1fddff, #ff4b1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: beige;
+}
+.tenOne{
+    background-image: url(../images/tavel.PNG);
+    color: #f79d00;
+    background-position: center;
+    background-size: cover;
+}
+
+
